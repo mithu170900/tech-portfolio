@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Minh Bui', // Title for your website.
-    tagline: 'Statistics | Machine Learning | Data Science',
+    tagline: 'Statistics | Machine Learning | Data Science | Aspiring Statistics Ph.D. candidate',
     profilePhoto: 'img/photo.jpg',
     url: 'https://mithu170900.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
