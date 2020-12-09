@@ -2,7 +2,7 @@
 title: A college junior’s journey to Machine Learning — Part 1: Career Switch
 ---
 
-![ChicagoAtNight](./assets/ChicagoTrip1.jpeg)
+![ChicagoAtNight](../assets/ChicagoTrip1.jpeg)
 
 It’s currently 1:04 PM and I’m listening to “Wings” by Birdy, one of my favorite songs of all time. This is my first Medium article and I write it to share with everyone 
 what I’m doing right now as a junior in college to break into data science. I have no intention to write an article that has thousands of viewers or inspires college students, 
