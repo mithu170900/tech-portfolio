@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Blog · Minh Bui</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Statistics | Machine Learning | Data Science | Aspiring Statistics Ph.D. candidate"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Blog · Minh Bui"/><meta property="og:type" content="website"/><meta property="og:url" content="https://mithu170900.github.io/tech-portfolio/"/><meta property="og:description" content="Statistics | Machine Learning | Data Science | Aspiring Statistics Ph.D. candidate"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/tech-portfolio/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://mithu170900.github.io/tech-portfolio/blog/atom.xml" title="Minh Bui Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://mithu170900.github.io/tech-portfolio/blog/feed.xml" title="Minh Bui Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/tech-portfolio/js/scrollSpy.js"></script><link rel="stylesheet" href="/tech-portfolio/css/main.css"/><script src="/tech-portfolio/js/codetabs.js"></script></head><body class="blog"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/tech-portfolio/"><h2 class="headerTitle">Minh Bui</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/tech-portfolio/docs/about" target="_self">About</a></li><li class=""><a href="/tech-portfolio/docs/projects" target="_self">Projects</a></li><li class="siteNavGroupActive siteNavItemActive"><a href="/tech-portfolio/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2020/12/09/blog-template">Blogs on Medium and thank you</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="posts"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/tech-portfolio/blog/2020/12/09/blog-template">Blogs on Medium and thank you</a></h1><p class="post-meta">December 9, 2020</p><div class="authorBlock"></div></header><article class="post-content"><div><span><p>Hi everyone,</p>
+<p>Thank you for visiting my blog section. I write my blogs and journals on Medium, which can be accessed through this <a href="https://medium.com/@buithu1792000">link</a>.</p>
+<p>As this blog section is the last part on my website, I would like to say thank you to everyone who has spent time going through everything I posted here and learned a little bit more about me. I am an undergraduate student and I understand that there are so many things I need to learn in order to become a successful data scientist/machine learning engineer but I am putting effort into learning from different people and resources to expand my knowledge in the field.</p>
+<p>Right now, I am focusing on doing side projects and taking online courses in data science and machine learning. My goals before I graduate are to complete <a href="https://www.coursera.org/learn/machine-learning">Andrew Ng's Machine Learning and</a> and <a href="https://atcold.github.io/pytorch-Deep-Learning/">Yann LeCun's Deep Learning</a>. I am aiming to complete 2-3 projects in subfields of machine learning such as computer vision, natural language processing, and speech recognition. As you can see, I am a beginner but I am on my way to achieve my goal - to become a data scientist/machine learning engineer.</p>
+<p>I will continue to update my progress on GitHub and if anyone is interested, please follow and give me feedback/ advice on what I can do to improve. This is a lifelong learning process and I am motivated to keep learning about the tech world.</p>
+<p>Thank you,
+Minh Bui</p>
+</span></div></article></div><div class="docs-prevnext"></div></div></div></div></div><footer class="nav-footer" id="footer"><section class="social"><a href="https://www.linkedin.com/in/minh-thu-bui-6648a4177/" target="_blank" class="social"><img alt="linkedin" src="/tech-portfolio/img/linkedin.svg"/></a><a href="https://github.com/mithu170900" target="_blank" class="social"><img alt="github" src="/tech-portfolio/img/github.svg"/></a><a href="https://www.facebook.com/minhthu.bui.5220/" target="_blank" class="social"><img alt="facebook" src="/tech-portfolio/img/facebook.svg"/></a></section><section class="copyright">Copyright © 2020 Minh Bui. Created with Docusaurus.</section></footer></div></body></html>

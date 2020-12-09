@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Minh Bui Blog</title>
+        <link>https://mithu170900.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Minh Bui news and events.</description>
+        <lastBuildDate>Wed, 09 Dec 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Minh Bui Blog</title>
+            <url>https://mithu170900.github.io/tech-portfolio/undefined</url>
+            <link>https://mithu170900.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2020</copyright>
+        <item>
+            <title><![CDATA[Blogs on Medium and thank you]]></title>
+            <link>https://mithu170900.github.io/tech-portfolio/blog/2020/12/09/blog-template.html</link>
+            <guid>https://mithu170900.github.io/tech-portfolio/blog/2020/12/09/blog-template.html</guid>
+            <pubDate>Wed, 09 Dec 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hi everyone,</p> <p>Thank you for visiting my blog section. I write my blogs and journals on Medium, which can be accessed through this <a href="https://medium.com/@buithu1792000">link</a>.</p> <p>As this blog section is the last part on my website, I would like to say thank you to everyone who has spent time g...</p>]]></description>
+        </item>
+    </channel>
+</rss>
