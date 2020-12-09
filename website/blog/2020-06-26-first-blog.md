@@ -5,25 +5,15 @@ title: A college junior’s journey to Machine Learning — Part 1: Career Switc
 ![ChicagoAtNight](https://github.com/mithu170900/tech-portfolio/blob/main/assets/ChicagoTrip1.jpeg)
 
 It’s currently 1:04 PM and I’m listening to “Wings” by Birdy, one of my favorite songs of all time. This is my first Medium article and I write it to share with everyone 
-what I’m doing right now as a junior in college to break into data science. I have no intention to write an article that has thousands of viewers or inspires college students, 
-but I do hope that if someone happens to come across this, who is struggling with their career choices, know that there is someone out there in the world going through the same 
-thing.
+what I’m doing right now as a junior in college to break into data science. I have no intention to write an article that has thousands of viewers or inspires college students, but I do hope that if someone happens to come across this, who is struggling with their career choices, know that there is someone out there in the world going through the same thing.
 
-Let me start off by introducing myself. My name is Minh and I’m a junior majoring in Actuarial Math with a minor in Computer Science. I’m interested in Data Science/ Machine Learning 
-and have just recently decided to become a data scientist instead of an actuary. My strengths are my determination and persistence. Once I’ve decided to do something, I’ll pursue 
-it until the end, especially when it comes to academics. My biggest weakness is that I tend to put a lot of pressure on myself and then get stressed out of that. Right now, I’m stressed
-because I just made a decision to pursue data science at the end of my sophomore year, and I’m not sure if I will be able to successfully become a data scientist. I don’t know what the 
-future holds, but for now, all I can do is try my best and work as hard as I can. Therefore, I’ll keep posting articles about my journey to become a data scientist. Each article or you 
-can call it my journal, will be about one part of the journey and I hope that one day when I go back and read them, I’ll be proud of myself because I’ve worked hard for what I want.
+Let me start off by introducing myself. My name is Minh and I’m a junior majoring in Actuarial Math with a minor in Computer Science. I’m interested in Data Science/ Machine Learning and have just recently decided to become a data scientist instead of an actuary. My strengths are my determination and persistence. Once I’ve decided to do something, I’ll pursue it until the end, especially when it comes to academics. My biggest weakness is that I tend to put a lot of pressure on myself and then get stressed out of that. Right now, I’m stressed because I just made a decision to pursue data science at the end of my sophomore year, and I’m not sure if I will be able to successfully become a data scientist. I don’t know what the future holds, but for now, all I can do is try my best and work as hard as I can. Therefore, I’ll keep posting articles about my journey to become a data scientist. Each article or you can call it my journal, will be about one part of the journey and I hope that one day when I go back and read them, I’ll be proud of myself because I’ve worked hard for what I want.
+
 This first article will be about my college journey in the last two years, a freshman and a sophomore.
 
-In the first year of college, I went to a small liberal arts school in a small town in Iowa. I was planning to double major in computer science and math/statistics. I was very ambitious 
-and was the type of person who would be super eager to tackle any challenging questions or issues. My first few math classes were in Calculus 1 & 2, and Linear Algebra (I dropped this class 
-after 1 month when I got a C). The three computer science classes I took were Web Development, Data Modeling and Querying, and Introduction to CS.
-Fresh out of my first year, I knew how to code in SQL and Python, and was able to build my own website using HTML, CSS, and a bit of Javascript. Kudos to all the friends and professors at
-the school. Without your help, I wouldn’t have been able to do well.
+In the first year of college, I went to a small liberal arts school in a small town in Iowa. I was planning to double major in computer science and math/statistics. I was very ambitious and was the type of person who would be super eager to tackle any challenging questions or issues. My first few math classes were in Calculus 1 & 2, and Linear Algebra (I dropped this class after 1 month when I got a C). The three computer science classes I took were Web Development, Data Modeling and Querying, and Introduction to CS. Fresh out of my first year, I knew how to code in SQL and Python, and was able to build my own website using HTML, CSS, and a bit of Javascript. Kudos to all the friends and professors at the school. Without your help, I wouldn’t have been able to do well.
 
-![SnowInIowa](./assets/SnowOne.jpeg)
+![SnowInIowa](https://github.com/mithu170900/tech-portfolio/blob/main/assets/SnowOne.jpeg)
 
 > A picture of Iowa in the winter of 2019. Taken near my school.
 
@@ -31,10 +21,12 @@ After that, I transferred to another university near Dallas, Texas. I remember t
 I might have to take another year to complete their CS curriculum. Given my financial circumstances and the “hate school” mentality that almost every teenager had, I didn’t want to do that. 
 I decided to take on Actuarial Math instead so that I could graduate in three years. I still would not say that was a wrong life decision, but being an actuary might not be the right career path for me.
 
-![BaseballTower](./assets/BaseballTower.jpeg)
+![BaseballTower](https://github.com/mithu170900/tech-portfolio/blob/main/assets/ChicagoTrip1.jpeg)
 
 > A picture of a tower in the baseball field. It’s a D1 school, guys.
 
 At my new school, I took only one CS class in introductory Java and then focused only on taking math classes like statistics, discrete math, and interest theory. I also joined Gamma Iota Sigma, a fraternity for Risk Management and Actuarial Science. On around late September, I went to their conference and career fair in downtown Dallas and interviewed with a mid-sized insurance company based in Illinois for their Data Engineer and Business Intelligence internship positions. I didn’t do any interviews for actuarial internships though because I haven’t taken any exams yet. About three weeks later, I got an offer from them as a Jr. Data Engineer intern. I’ll share more about my internship interview in another article, but I feel very lucky to get selected despite not having an analytics/data science background.
+
 In late May 2020, I started my internship as a Data Engineer. The data analytics team gave me a list of projects I could work on and I picked one that I was able to make use of my actuarial science and computer science skill. The project was to create a predictive model using machine learning models to detect smoker liars in the system. So far I’ve been responsible for end-to-end from pulling data from the data lake to cleaning it and then to employ some models to see which one would be the most predictive. I really enjoy working with data and numbers. I enjoy the type of work where I can use my knowledge in statistics and programming skills to create something applicable, practical, and useful.
+
 I feel very lucky that they offer me this opportunity to intern during the pandemic. So far, I’ve talked to a lot of supportive and talented people in the team and the whole company. One of them is my mentor. He’s a data scientist/ machine learning engineer and every knowledge he acquired has been through his hands-on experiences with projects and online learning. He’s incredibly helpful when I ask him questions about this career as a data scientist and gives me all the resources he knows. He also offers me some insights into his job and this field. He’s probably one of the biggest reasons why I believe I’m making the right decision to switch to data science. So here we go, in the summer of my sophomore year, I decide to embark on a new journey- a journey that is challenging but worthwhile- to become a data scientist.
